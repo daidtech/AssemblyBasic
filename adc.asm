@@ -1,6 +1,6 @@
 .model small
 .data    
-    mess db "Hello world$"
+  
 .code
 main proc                 
    mov dl, 0h
